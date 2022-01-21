@@ -1,0 +1,23 @@
+.form-control{
+    position: relative;
+    left: 600px;
+    
+}
+
+
+#img{
+   
+    position: relative;
+    left: 40px;
+    border-radius: 30px;
+    height: 400px;
+    width: 1200px;
+  
+}
+#table{
+    position: relative;
+    top: 40px;
+}
+
+
+

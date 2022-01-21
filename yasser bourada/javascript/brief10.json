@@ -1,0 +1,270 @@
+[
+    {
+        "id" : "po1",
+        "category" : "processor",
+        "productName" : "intel core I7-12700k",
+        "prix" : "6490dh",
+        "availability" : [ " tangier ,",  " casablanca",  " rabat"],
+        "seller" : {
+            "rs" : "Intel",
+            "address" : "Santa Clara, United States"
+        }
+    },
+
+    {
+        "id" : "po2",
+        "category" : "processor",
+        "productName" : "intel core I5 11400F",
+        "prix" : "2490dh",
+        "availability" : [ "tangier"  ," casablanca"  ," rabat"],
+        "seller" : {
+            "rs" : "Intel",
+            "address" : "Santa Clara, United States"
+        }
+
+    },
+    
+    {
+        "id" : "po3",
+        "category" : "processor",
+        "productName" : "core I9 11900F",
+        "prix" : "6190dh",
+        "availability" : [ " tangier,",  " casablanca",  " rabat"],
+        "seller" : {
+            "rs" : "Intel",
+            "address" : "Santa Clara, United States"
+        }
+    },
+    {
+        "id" : "po4",
+        "category" : "processor",
+        "productName" : "Intel Core i5-10500",
+        "prix" : "3109dh",
+        "availability" : [ " tangier",  " casablanca",  " rabat"],
+        "seller" : {
+            "rs" : "Intel",
+            "address" : "Santa Clara, United States"
+        }
+    },
+
+    {
+        "id" : "cg1",
+        "category" : "graphic card",
+        "productName" : "ZOTAC GeForce RTX 3090 Trinity OC",
+        "prix" : "37,990.00 DH",
+        "availability" : [ "tangier  |",  " casablanca  ",  " rabat"],
+        "seller" : {
+            "rs" : "zotac",
+            "adress" : "hong kong"
+        }
+        
+    },
+
+    {
+        "id" : "cg2",
+        "category" : "graphic card",
+        "productName" : "Gigabyte GeForce RTX 3070 GAMING OC 8G REV 3.0",
+        "prix" : "12,900.00 DH",
+        "availability" : [ "tangier  |",   " casablanca"],
+        "seller" : {
+            "rs" : "gigabyte",
+            "address" : "California United States"
+        }
+        
+    },
+    
+    {
+        "id" : "cg3",
+        "category" : "graphic card",
+        "productName" : "ASRock Radeon RX 6800 Phantom Gaming D 16G OC",
+        "prix" : "19,990,00dh",
+        "availability" : [ "tangier",  " rabat"],
+        "seller" : {
+            "rs" : "Asrock",
+            "adress" : "Taiwan"
+        }  
+    },
+
+     
+    {
+        "id" : "cg4",
+        "category" : "graphic card",
+        "productName" : "ASRock AMD Radeon RX 6700 XT Challenger Pro 12GB OC",
+        "prix" : "12,900,00dh",
+        "availability" : [ "tangier",  " rabat",  " casablanca"],
+        "seller" : {
+            "rs" : "Asrock",
+            "address" : "Taiwan"
+        }  
+    },
+
+
+    {
+        "id" : "m1",
+        "category" : "mouses",
+        "productName" : "HyperX Pulsefire FPS Pro",
+        "prix" : "649dh",
+        "availability" : [ "tangier",  "rabat",  "casablanca"],
+        "seller" : {
+            "rs" : "HyperX",
+            "address" : "Fountain Valley, CA, US"
+        }  
+    },
+    
+    {
+        "id" : "m2",
+        "category" : "mouses",
+        "productName" : "Logitech G903 Lightspeed Hero Wireless Gaming Mouse",
+        "prix" : "1,390dh",
+        "availability" : [ "tangier",  "rabat",  "casablanca"],
+        "seller" : {
+            "rs" : "logitech",
+            "address" : "Lausanne, Switzerland"
+        }  
+    },
+
+    {
+        "id" : "m3",
+        "category" : "mouses",
+        "productName" : "HyperX Pulsefire Haste",
+        "prix" : "849,00dh",
+        "availability" : [ "tangier",  " rabat",  " casablanca"],
+        "seller" : {
+            "rs" : "hyperX",
+            "address" : "Fountain Valley, CA, US"
+        }  
+    },
+
+
+    {
+        "id" : "m4",
+        "category" : "mouses",
+        "productName" : "Razer DeathAdder Essential Blanc",
+        "prix" : "549,00dh",
+        "availability" : [ "tangier",  "rabat",  "casablanca"],
+        "seller" : {
+            "rs" : "razer",
+            "address" : "California , usa"
+        }  
+    },
+
+    {
+        "id" : "kb1",
+        "category" : "keyboard",
+        "productName" : "Ducky Channel One 2 Tuxedo",
+        "prix" : "1,590dh",
+        "availability" : [ "tangier",  " rabat",  " casablanca"],
+        "seller" : {
+            "rs" : "Ducky Channel",
+            "address" : "taiwan"
+        }  
+    },
+
+
+
+    {
+        "id" : "kb2",
+        "category" : "keyboard",
+        "productName" : "HyperX Alloy Elite 2",
+        "prix" : "1,790dh",
+        "availability" : [ "tangier",  "rabat",  "casablanca"],
+        "seller" : {
+            "rs" : "hyperX",
+            "address" : "Fountain Valley, CA, US"
+        }  
+    },
+
+    
+    {
+        "id" : "kb3",
+        "category" : "keyboard",
+        "productName" : "Logitech G513 GX Blue (Carbon)",
+        "prix" : "1,549 DH",
+        "availability" : [ "tangier",  "rabat",  "casablanca"],
+        "seller" : {
+            "rs" : "logitech",
+            "address" : "Lausanne, Switzerland"
+        }  
+    },
+
+    {
+        "id" : "kb4",
+        "category" : "keyboard",
+        "productName" : "Razer BlackWidow V3 TKL (switches Razer Green)",
+        "prix" : "1,299DH",
+        "availability" : [ "tangier",  " rabat",  " casablanca"],
+        "seller" : {
+            "rs" : "razer",
+            "address" : "California , usa"
+        }  
+    },
+
+    {
+        "id" : "cl1",
+        "category" : "cooler",
+        "productName" : "ASUS ROG STRIX LC II 280 ARGB",
+        "prix" : "2,890 DH",
+        "availability" : [ "rabat",  " casablanca"],
+        "seller" : {
+            "rs" : "Asus",
+            "address" : "Taipei, Taiwan"
+        }  
+    },
+    {
+        "id" : "cl2",
+        "category" : "cooler",
+        "productName" : "Cooler Master MasterLiquid ML360 Illusion",
+        "prix" : "1,190 DH",
+        "availability" : [ "rabat"],
+        "seller" : {
+            "rs" : "Cooler Master",
+            "address" : "Taipei, Taiwan"
+        }  
+    },
+    {
+        "id" : "cl3",
+        "category" : "cooler",
+        "productName" : "Corsair iCue H100i Elite Capellix (Blanc)",
+        "prix" : "2,190 DH",
+        "availability" : [ "tangier"],
+        "seller" : {
+            "rs" : "corsair",
+            "address" : " California.usa"
+        }  
+    },
+    {
+        "id" : "cl4",
+        "category" : "cooler",
+        "productName" : "Corsair iCue H150i Elite Capellix",
+        "prix" : "2,790 DH",
+        "availability" : [ "casablanca"],
+        "seller" : {
+            "rs" : "corsair",
+            "address" : " California.usa"
+        }  
+    }
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+]
